@@ -1,0 +1,5 @@
+# Restrict testing keywords to the hardware-enablement payload.
+sys-kernel/gentoo-kernel-bin ~amd64
+sys-kernel/linux-firmware ~amd64
+sys-firmware/intel-microcode ~amd64
+sys-firmware/sof-firmware ~amd64
