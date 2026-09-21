@@ -1,0 +1,4 @@
+# Firmware redistribution licenses accepted by the official package ebuilds.
+sys-kernel/linux-firmware @BINARY-REDISTRIBUTABLE
+sys-firmware/intel-microcode @BINARY-REDISTRIBUTABLE
+sys-firmware/sof-firmware @BINARY-REDISTRIBUTABLE
